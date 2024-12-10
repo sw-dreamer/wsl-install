@@ -127,5 +127,9 @@ WSL에서는 ***WSL 1, WSL 2*** 두 가지의 주요 버전이 있습니다.
    ```powershell
    wsl -l -v
    ```
+<hr/>
 
+## 참조 링크
+
+[Microsoft Learn Challenge] : *https://learn.microsoft.com/ko-kr/windows/wsl/install*
 
